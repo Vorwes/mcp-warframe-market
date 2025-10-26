@@ -4,7 +4,7 @@ This repository contains an mcp server implementation for [warframe market](http
 ## Instructions
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/Vorwes/mcp-warframe-market.git
 ```
 
 2. Install the required dependencies:
